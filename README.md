@@ -1,5 +1,5 @@
 # Iron Skillet
-The purpose of the Iron Skillet project is to provide a repository of XML configuration snippets that may be used to secure a Palo Alto Networks NGFW in accordance with our best practice recommendations.  These configuration snippets can be easily loaded into a firewall or Panorama minimizing configuration time to reducing errors.
+The purpose of the Iron Skillet project is to provide a repository of XML configuration snippets that may be used to secure a Palo Alto Networks NGFW in accordance with our best practice recommendations.  These configuration snippets can be easily loaded into a firewall or Panorama minimizing configuration time to reduce errors.
 
 The template details and usage are documented at:
 
